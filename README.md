@@ -92,7 +92,7 @@ POST       api/user/register ................... Api\UserController@register
 ...
 ```
 
-## Unit Tests
+## Run Tests
 
 ```bash
 # php artisan test
