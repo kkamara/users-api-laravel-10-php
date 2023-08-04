@@ -4,7 +4,7 @@
 
 # users-api-laravel-10-php [![API](https://github.com/kkamara/users-api-laravel-10-php/actions/workflows/build.yml/badge.svg)](https://github.com/kkamara/users-api-laravel-10-php/actions/workflows/build.yml)
 
-(Test Driven Development) (04-Aug-2023) With Laravel 10 we build a GDPR compliant users API system.
+(Test Driven Development) (04-Aug-2023) With Laravel 10 we build a GDPR compliant users API system. I have been working with Laravel since Laravel 5.4 - www.endoflife.date/laravel
 
 * [Tinker](#tinker)
 
